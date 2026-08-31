@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f7200cf487946eaba8a10c44607c1e, type: 3}
+  m_Name: Info - 2
+  m_EditorClassIdentifier: Assembly-CSharp::SOInfo
+  strTitle: Gedung K2
+  strDesc: "K2.1.01 \u2192 Ruang Panel\n\nK2.1.02 \u2192 KALAB\n\nK2.1.03 \u2192
+    R. Kuliah D4 Manajemen Informatika\n\nK2.1.04 \u2192 R. Kulish D4 Manajemen Informatika\n\nK.1.05
+    \u2192 R. Kuliah D4 Manajemen Informatika\n\nK2.1.06 \u2192 Ruang Lab. Listrik.\n\nK2.1.07
+    \u2192 R. kuliah D4 Transportasi\n\nK2.1.08 \u2192 R. Kuliah D4 Transportasi\n\nK2.1.09
+    \u2192 R. Kuliah D4 Transportasi\n\nK2.1 \u2192 Toilet\n\nK2.2.01 \u2192 Gudang\n\nK2.2.02
+    \u2192 R. Dosen T. Rekayasa Otomotif\n\nK2.2.03\u2192 R. Kuliah D4 Tata Boga\n\nK2.2.04
+    \u2192 R. kuliah D4 Tata Boga\n\nK2.2.05 \u2192 R. Kuliah D4 Tata Boga\n\nK2.2.06
+    \u2192 R. Kuliah D4 Tata Busana\n\nK2.2.07 \u2192 R. Kuliah D4 Tata Busana\n\nK2.2.08
+    \u2192 R. Kuliah D4 Tata Busana\n\nK2.2.09 \u2192 R. Kuliah T. Rekayasa Otomotif\n\nK2.2
+    \u2192 Tolet."

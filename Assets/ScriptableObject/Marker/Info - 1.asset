@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f7200cf487946eaba8a10c44607c1e, type: 3}
+  m_Name: Info - 1
+  m_EditorClassIdentifier: Assembly-CSharp::SOInfo
+  strTitle: Gedung K1
+  strDesc: "K1.01.01 \u2192 Perpustakaan\n\nK1.1 .06 \u2192 Ruang kuangan\n\nK1.1.0.7
+    \u2192 Toilet\n\nK1.1.08 \u2192 Ruang Pijar dan panel\n\nK1.2.01 \u2192 Laboratorium\n\nK1.2.02
+    \u2192 Laboratorium\n\nK1.2.03 \u2192 Laburaonum\n\nK1.2.04 \u2192 Laboratorium\n\nK1.2.05
+    \u2192 Toilet\n\nK1.2 \u2192 Panel listnk dan gudang"

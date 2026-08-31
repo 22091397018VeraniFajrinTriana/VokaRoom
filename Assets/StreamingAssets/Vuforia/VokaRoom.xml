@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="qr-building-2" size="1.000000 1.035329" />
+    <ImageTarget name="qr-building-1" size="1.000000 1.004771" />
+    <ImageTarget name="qr-9" size="1.000000 0.992352" />
+    <ImageTarget name="qr-8" size="1.000000 1.013133" />
+    <ImageTarget name="qr-7" size="1.000000 0.980036" />
+    <ImageTarget name="qr-6" size="1.000000 1.066140" />
+    <ImageTarget name="qr-5" size="1.000000 1.019830" />
+    <ImageTarget name="qr-4" size="1.000000 1.006524" />
+    <ImageTarget name="qr-3" size="1.000000 0.964351" />
+    <ImageTarget name="qr-2" size="1.000000 1.010536" />
+    <ImageTarget name="qr-1" size="1.000000 0.999038" />
+  </Tracking>
+</QCARConfig>

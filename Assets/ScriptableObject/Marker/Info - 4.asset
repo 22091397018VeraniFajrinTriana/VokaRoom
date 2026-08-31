@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f7200cf487946eaba8a10c44607c1e, type: 3}
+  m_Name: Info - 4
+  m_EditorClassIdentifier: Assembly-CSharp::SOInfo
+  strTitle: Gedung K4
+  strDesc: "K4.1.01 \u2192 R. Koorp. Busana\n\nK4.1.02 \u2192 R. Koorp. DesGraf\n\nK4.1.03
+    \u2192 R. Koorp. Boga\n\nK4.1.04 \u2192 R. Rapat\n\nK4.1.05 \u2192 R. Rapat\n\nK4.1.06
+    \u2192 R. Koorp. Prod. Media\n\nK4.1.06 \u2192 R. Koorp. T. Listrik\n\nK4.1.07
+    \u2192 R. Koorp. T. VKO\n\nK4.1.07 \u2192 R. Koorp. T. Mesin\n\nK4.1.08 \u2192
+    R. Lab Komputer\n\nK4.1.09 \u2192 R. Lab Komputer\n\nK4.1.10 \u2192 R. Koorp.
+    Transport\n\nK4.1.11 \u2192 R. Koorp. Sipil\n\nK4.1.12 \u2192 Gudang / R. VUBETA\n\nK4.1.13
+    \u2192 Toilet\n\nK4.2.01 \u2192 R. Dosen VKO\n\nK4.2.02 \u2192 R. Dosen Busana\n\nK4.2.03
+    \u2192 R. Dosen GPM\n\nK4.2.04 \u2192 R. Dosen Multimedia\n\nK4.2.05 \u2192 R.
+    Dosen DesGraf\n\nK4.2.06 \u2192 R. Teknik SIPIL\n\nK4.2.07 R. Dosen T. Mesin\n\nK4.2.08
+    R. Dosen T. Mesin\n\nK4.2.09 R. Dosen T. Listrik\n\nK4.2.10 \u2192 R. Dosen T.
+    Listrik\n\nK4.2.11 \u2192 R. Dosen Manaj. Info\n\nK4.2.12 \u2192 R. Dosen T.
+    Sipil\n\nK4.2.13 \u2192 R. Dosen Boga\n\nK4.2.14 \u2192 R. Dosen Transport\n\nK4.2.15
+    \u2192 R. Dosen VKO\n\nK4.2.16 \u2192 Gudang\n\nK4.2.17 \u2192 Toilet"

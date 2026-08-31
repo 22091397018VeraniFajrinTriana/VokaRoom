@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f7200cf487946eaba8a10c44607c1e, type: 3}
+  m_Name: Info - 7
+  m_EditorClassIdentifier: Assembly-CSharp::SOInfo
+  strTitle: Gedung K7
+  strDesc: "K7.1.01 \u2192 R. Lab. Mesin/Manufaktur\n\nK7.1.02 \u2192 R. Lab. SIPIL\n\nK7.2.01
+    \u2192 Rumah Produksi\n\nK7.2.02 \u2192 R. Competition Fund\n\nK7.2.03 \u2192
+    Ruang Planner\n\nK7.2.03 \u2192 Ruang Server\n\nK7.2.03 \u2192 Gudang\n\nK7.2.03
+    \u2192 Lobby"
